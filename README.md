@@ -16,6 +16,7 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 + Built for simplicity
 + etc
 + etc
++ Single agent works can be found [here](https://github.com/i1Cps/simple-RJX)
 
 ## Library
 
