@@ -11,7 +11,7 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
-### Simple-MRJX is the same as [Simple-RJX] but for multi-robot training
+### Simple-MRJX is the same as [Simple-RJX](https://github.com/i1Cps/simple-RJX) but for multi-robot training
 
 + Built for simplicity
 + etc
