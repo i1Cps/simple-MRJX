@@ -4,7 +4,7 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 
 <div align="center">
 
-# Simple-RJX (Demonstration Only) :rocket:
+# Simple-MRJX (Demonstration Only) :rocket:
 
 </div>
 
