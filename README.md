@@ -22,5 +22,8 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 
 ### Race
 
+![inference_rollouts3](https://github.com/user-attachments/assets/f1323a9c-df38-46a2-a872-76d8440173b2)
+
+
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
