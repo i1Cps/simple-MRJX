@@ -27,6 +27,13 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 
 
 
+### Get out
+
+![get_out_quadruped_quadruped](https://github.com/user-attachments/assets/2ad1f0f1-5152-4066-accf-c0faeeeb214c)
+
+
+
+
 
 
 
