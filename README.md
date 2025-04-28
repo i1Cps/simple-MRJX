@@ -20,12 +20,15 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 
 ## Library
 
+### Tackle
+
+![green_wins_30fps](https://github.com/user-attachments/assets/4d15435c-9a84-4d4c-8249-80d98a45310b)
+![red_wins_30fps](https://github.com/user-attachments/assets/0a3b3b12-9b08-49b6-8006-535a6529d9f0)
+
 ### Race
 
 ![race_humanoid_humanoid](https://github.com/user-attachments/assets/f1323a9c-df38-46a2-a872-76d8440173b2)
 ![race_quadruped_quadruped](https://github.com/user-attachments/assets/2a26f075-df52-43b7-baba-3a6d7efe67cb)
-
-
 
 ### Get out
 
