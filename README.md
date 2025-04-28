@@ -23,6 +23,8 @@ Simple Multi Robot JAX based environments in Mujoco using Reinforcement Learning
 ### Tackle
 
 ![green_wins_400x225_30fps](https://github.com/user-attachments/assets/d8716f15-8e6e-4994-bb05-ff71b3d12552)
+![green_wins_optimized](https://github.com/user-attachments/assets/11c84b94-c6d1-40e1-9454-6deb93e11843)
+
 
 ![red_wins_30fps](https://github.com/user-attachments/assets/0a3b3b12-9b08-49b6-8006-535a6529d9f0)
 
